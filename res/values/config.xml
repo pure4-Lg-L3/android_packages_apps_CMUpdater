@@ -8,7 +8,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- CMUpdate Config Strings -->
-    <string name="conf_update_server_url_def" translatable="false">http://beta.download.cyanogenmod.org/api</string>
-    <string name="conf_changelog_url" translatable="false">http://localhost/changelog.xml</string>
+    <string name="conf_update_server_url_def">https://googledrive.com/host/0B1WuJuN7p2ihMS1MN1NrNlFDTFE/api</string>
+    <string name="conf_changelog_url">https://github.com/sooorajjj/CM9_Changelog/blob/master/changelog.xml</string>
     <bool name="alternateIsInternal">false</bool>
 </resources>
+<!--
+UNOFFICIAL CM-9 BUILD  hosting   https://googledrive.com/host/0B1WuJuN7p2ihMS1MN1NrNlFDTFE
+                LOGCAT hosting   https://github.com/sooorajjj/CM9_Changelog/blob/master/changelog.xml
+-->
